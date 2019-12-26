@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f708e4f-483d-4668-840c-7b9f43f0e514" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VD8fY9HDweiRL97s4AnlflZVTe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../core-conducaoeconomica" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="kotlin" />
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AppMain (1)">
+    <configuration name="AppMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.AppMain" />
+      <module name="KafkaAprendendo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppMain" />
+      <module name="KafkaAprendendo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppMain (1)" />
+        <item itemvalue="Application.AppMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f708e4f-483d-4668-840c-7b9f43f0e514" name="Default Changelist" comment="" />
+      <created>1576776408048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576776408048</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="324" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1577360018400">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="223" y="324" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1577360018400" />
+    <state x="469" y="257" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577359655590">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="469" y="257" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1577359655590" />
+    <state x="469" y="27" width="494" height="699" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1577360034669">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="469" y="27" width="494" height="699" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1577360034669" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576846181136">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1576846181136" />
+    <state width="1253" height="116" key="GridCell.Tab.0.bottom" timestamp="1577371211535">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="116" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1577371211535" />
+    <state width="1253" height="116" key="GridCell.Tab.0.center" timestamp="1577371211535">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="116" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1577371211535" />
+    <state width="1253" height="116" key="GridCell.Tab.0.left" timestamp="1577371211535">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="116" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1577371211535" />
+    <state width="1253" height="116" key="GridCell.Tab.0.right" timestamp="1577371211535">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="116" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1577371211535" />
+    <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1576779440762">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1576779440762" />
+    <state x="205" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1576781931343">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1576781931343" />
+    <state x="67" y="95" width="1289" height="603" key="new project wizard" timestamp="1577371208370">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="95" width="1289" height="603" key="new project wizard/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1577371208370" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1576781938942">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1576781938942" />
+  </component>
+</project>
